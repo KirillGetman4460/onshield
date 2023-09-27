@@ -60,13 +60,15 @@ section {
 }
 .gallery-item {
   width: 200px;
+  padding: 5px;
 }
+
 .img-fluid{
   width: 300px;
   margin: 10px;
 }
-.item{
- flex: 0 1 33%;
+.gallery-item{
+ flex: 0 1 32%;
 }
 .ptoho_title{
   font-family: 'Roboto', sans-serif;
